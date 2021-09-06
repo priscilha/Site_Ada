@@ -4,7 +4,7 @@ Curso Eu Progr{Amo} - Progra{m}aria
   
 <p align="center">
 <a href="#Sobre">Sobre</a> |
-<a href="#Projeto">Projeto</a> |
+<a href="#Progra{m}aria">Progra{m}aria</a> |
 <a href="#Tecnologias">Tecnologias</a> 
 </p>
 
