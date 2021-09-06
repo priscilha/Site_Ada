@@ -13,7 +13,7 @@ Curso Eu Progr{Amo} - Progra{m}aria
 
 ## :computer: Sobre    
 
-Repositório criado com o resultado dos exercícios e desafios propostos pelo curso **Eu Progr{Amo}**, uma introdução à programação com foco em desenvolvimento Web.
+Repositório criado com o resultado dos exercícios e desafios propostos pelo curso **Eu Progr{Amo}**, uma introdução à programação com foco em desenvolvimento Web. Desenvolvido um site [**Mulheres Que Fizeram História na Tecnologia**](https://siteada.priscilha.repl.co/), com rolagem vertical, menu, imagens, links para outras páginas e formulário em JavaScript. 
 
 ## :rocket: Progra{m}aria   
 
